@@ -1,4 +1,12 @@
-Preso-Sourcing
-==============
+Presentation Topic Goes Here
+============================
 
-Help Dan figure out what to present
+### One sentence elevator pitch
+
+_Who's the audience?_
+
+##### Outline
+* Intro
+* The meat
+* Strong finish
+* One. More. Thing
